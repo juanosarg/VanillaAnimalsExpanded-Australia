@@ -550,7 +550,7 @@
 			<baseBodySize>0.25</baseBodySize>
 			<baseHealthScale>0.4</baseHealthScale>
 			<baseHungerRate>0.15</baseHungerRate>
-			<foodType>OmnivoreAnimal</foodType>
+			<foodType>OmnivoreRoughAnimal</foodType>
 			<leatherDef>AEXP_Leather_Platypus</leatherDef>
 			<wildness>0.85</wildness>
 			<litterSizeCurve>
