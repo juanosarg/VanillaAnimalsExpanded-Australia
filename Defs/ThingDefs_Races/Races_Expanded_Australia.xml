@@ -5,7 +5,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Boombat</defName>
 		<label>boombat</label>
-		<description>This proves Sarg is a bad influence on Oskar.</description>
+		<description>Due to some insane experiment, these cute, fluffy rodents create a powerful fire-starting explosion when killed.</description>
 		<statBases>
 			<MoveSpeed>4.0</MoveSpeed>
 			<MarketValue>150</MarketValue>
@@ -165,7 +165,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Kangaroo</defName>
 		<label>kangaroo</label>
-		<description>God was drunk this day.</description>
+		<description>Kangaroo is a large, human-sized marsupial with strong legs and powerful arms. It's favoured by tribal hunters due to its tender meat and heat resistant leather. Kangaroos make for powerful adversaries in melee combat, and can be trained easily to become animal super-soldiers.</description>
 		<statBases>
 			<MoveSpeed>5</MoveSpeed>
 			<MarketValue>250</MarketValue>
@@ -319,7 +319,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Koala</defName>
 		<label>koala</label>
-		<description>.</description>
+		<description>Koalas are easily recognizable for their stout body and large, round heads with fluffy ears. They typically inhabit arid and temperate woodlands, but can rarely be seen in tropical areas. Favoured by royal families, koalas are great household animals due to their wonderful nuzzling effect.</description>
 		<statBases>
 			<MoveSpeed>2</MoveSpeed>
 			<MarketValue>75</MarketValue>
@@ -474,7 +474,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>AEXP_Platypus</defName>
 		<label>platypus</label>
-		<description>God was REALLY drunk this day.</description>
+		<description>Platypus is the sole surviving representative of its animal family. They are beaver-tailed, duck billed mammals, known for the fact that they lay eggs. It is an omnivore animal, capable of killing small rodents with it's venomous ankle spurs.</description>
 		<statBases>
 			<MoveSpeed>2.5</MoveSpeed>
 			<MarketValue>120</MarketValue>
@@ -550,7 +550,7 @@
 			<baseBodySize>0.25</baseBodySize>
 			<baseHealthScale>0.4</baseHealthScale>
 			<baseHungerRate>0.15</baseHungerRate>
-			<foodType>VegetarianRoughAnimal</foodType>
+			<foodType>OmnivoreAnimal</foodType>
 			<leatherDef>AEXP_Leather_Platypus</leatherDef>
 			<wildness>0.85</wildness>
 			<litterSizeCurve>
