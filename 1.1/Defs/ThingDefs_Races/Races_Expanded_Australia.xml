@@ -63,6 +63,8 @@
 		</comps>
 		<race>
 			<herdAnimal>true</herdAnimal>
+			<deathActionWorkerClass>DeathActionWorker_SmallExplosion</deathActionWorkerClass>
+			<canBePredatorPrey>false</canBePredatorPrey>
 			<body>QuadrupedAnimalWithPaws</body>
 			<baseBodySize>0.4</baseBodySize>
 			<baseHungerRate>0.05</baseHungerRate>
@@ -73,7 +75,7 @@
 			<executionRange>4</executionRange>
 			<wildness>0.7</wildness>
 			<trainability>Simple</trainability>
-
+			<useMeatFrom>Boomrat</useMeatFrom>
 			<lifeExpectancy>9</lifeExpectancy>
 			<lifeStageAges>
 				<li>
