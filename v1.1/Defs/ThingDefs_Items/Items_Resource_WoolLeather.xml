@@ -18,6 +18,10 @@
 		<stuffProps>
 			<color>(82,65,57)</color>
 			<commonality>0.005</commonality>
+			<statFactors>
+				<MaxHitPoints>0.9</MaxHitPoints>
+				<Beauty>3</Beauty>
+			</statFactors>
 		</stuffProps>
 	</ThingDef>
   
