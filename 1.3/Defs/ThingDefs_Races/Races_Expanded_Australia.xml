@@ -209,7 +209,7 @@
 			<body>AEXP_TailedBiped</body>
 			<herdAnimal>true</herdAnimal>
 			<baseBodySize>1.8</baseBodySize>
-			<baseHungerRate>0.85</baseHungerRate>
+			<baseHungerRate>0.535</baseHungerRate>
 			<baseHealthScale>1.9</baseHealthScale>
 			<foodType>VegetarianRoughAnimal</foodType>
 			<leatherDef>Leather_Heavy</leatherDef>
